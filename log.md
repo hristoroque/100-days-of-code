@@ -7,3 +7,11 @@
 **Thoughts:** I struggled with css. For me, it's really hard, I didn't know how to align the elementes in the todo and after trial and error I finally did it (kind of). I also struggled with the events and passing data from a child component to the parent, I didn't know how to do it so I followed the example on React's main page. Because it was my first time in a long time doing react and styling with css, I was slowed down.
 
 **Link to work:** [Github repository](https://github.com/hristoroque/TODO-React)
+
+### Day 2: July 8th, 2020
+
+**Today's Progress*: I am keep working on a todo app. I reorganized my code so that the data of the app stays in the App Component and also delegated the creation form to its own componente. With this new organization, I created a detail view components where the timer, and the edit function are supposed to be.
+
+**Thoughts** I completed the exercises about react on Freecodecamp. I now have a better understanding of the react and the pattern of having your data in only on component, I didn't understand the last part of converting a react component into a string in the server, though. I'll continue reading the documentation of reacct because I also didn't quite grasp the events lifecycle.
+
+**Link to work:** [Github repository](https://github.com/hristoroque/TODO-React)
