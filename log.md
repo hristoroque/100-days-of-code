@@ -15,3 +15,15 @@
 **Thoughts** I completed the exercises about react on Freecodecamp. I now have a better understanding of the react and the pattern of having your data in only on component, I didn't understand the last part of converting a react component into a string in the server, though. I'll continue reading the documentation of reacct because I also didn't quite grasp the events lifecycle.
 
 **Link to work:** [Github repository](https://github.com/hristoroque/TODO-React)
+
+## Day 3: July 9th, 2020
+
+**Today's Progress*: I added style to the todos and fixed a bug a found, I also added a header that displays the date and the time.
+
+**thoughts**: I still don't know what the best form to add style is in react.
+
+## Day 4: July 10th, 2020
+
+**Today's Progress**: I only had time to split up the code.
+
+**thoughts**: Seeing the watchlist of react conf makes me feel as though I knew nothing about react.
