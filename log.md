@@ -27,3 +27,9 @@
 **Today's Progress**: I only had time to split up the code.
 
 **thoughts**: Seeing the watchlist of react conf makes me feel as though I knew nothing about react.
+
+## Day 5: July 11th, 2020
+
+**Today's Progress**: I combined threejs and react js to start doing my lisssajous project.
+
+**thoughts**: I also read somthing about hooks aned now I know that don't know anything.
