@@ -39,3 +39,9 @@
 **Today's Progress**: I added a pomodoro timer to my project but it is not linked to the todos yet.
 
 **thoughts**: I saw some really amazing projects implemented in react and they look gorgeous. That made me think that I should really improve my css skills.
+
+## Day 7: July 13th, 2020
+
+**Today's Progress**: I added style to my todo app, I played with border radius, box-shadow, and flex
+
+**thoughts**: I also read something about Google Material Design, it confused me.
